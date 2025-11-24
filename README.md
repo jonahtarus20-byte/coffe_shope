@@ -17,7 +17,8 @@ Python
 pipenv
 
 Installation instruction
-git clone 
+
+git clone git@github.com:jonahtarus20-byte/coffe_shope.git
 
 How to Run
 
